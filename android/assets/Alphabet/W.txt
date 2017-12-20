@@ -1,0 +1,68 @@
+W.png
+size: 1800, 1623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W-Worm0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0004
+  rotate: false
+  xy: 0, 541
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0005
+  rotate: false
+  xy: 600, 541
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0006
+  rotate: false
+  xy: 1200, 541
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0007
+  rotate: false
+  xy: 0, 1082
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0008
+  rotate: false
+  xy: 600, 1082
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1
+W-Worm0009
+  rotate: false
+  xy: 1200, 1082
+  size: 600, 541
+  orig: 600, 541
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+dwightAttack.png
+size: 756, 1640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dwight Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0002
+  rotate: false
+  xy: 378, 0
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0003
+  rotate: false
+  xy: 0, 410
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0004
+  rotate: false
+  xy: 378, 410
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0005
+  rotate: false
+  xy: 0, 820
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0006
+  rotate: false
+  xy: 378, 820
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+Dwight Attack0007
+  rotate: false
+  xy: 0, 1230
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1

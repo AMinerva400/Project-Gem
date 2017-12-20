@@ -1,0 +1,89 @@
+T.png
+size: 1800, 1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T-Toucan0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0004
+  rotate: false
+  xy: 0, 470
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0005
+  rotate: false
+  xy: 600, 470
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0006
+  rotate: false
+  xy: 1200, 470
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0007
+  rotate: false
+  xy: 0, 940
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0008
+  rotate: false
+  xy: 600, 940
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0009
+  rotate: false
+  xy: 1200, 940
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0010
+  rotate: false
+  xy: 0, 1410
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0011
+  rotate: false
+  xy: 600, 1410
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1
+T-Toucan0012
+  rotate: false
+  xy: 1200, 1410
+  size: 600, 470
+  orig: 600, 470
+  offset: 0, 0
+  index: -1

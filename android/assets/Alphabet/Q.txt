@@ -1,0 +1,68 @@
+Q.png
+size: 1800, 1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q-Quail0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0004
+  rotate: false
+  xy: 0, 662
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0005
+  rotate: false
+  xy: 600, 662
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0006
+  rotate: false
+  xy: 1200, 662
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0007
+  rotate: false
+  xy: 0, 1324
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0008
+  rotate: false
+  xy: 600, 1324
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1
+Q-Quail0009
+  rotate: false
+  xy: 1200, 1324
+  size: 600, 662
+  orig: 600, 662
+  offset: 0, 0
+  index: -1

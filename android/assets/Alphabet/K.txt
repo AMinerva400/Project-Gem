@@ -1,0 +1,68 @@
+K.png
+size: 1800, 1617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K-Kangaroo0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0004
+  rotate: false
+  xy: 0, 539
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0005
+  rotate: false
+  xy: 600, 539
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0006
+  rotate: false
+  xy: 1200, 539
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0007
+  rotate: false
+  xy: 0, 1078
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0008
+  rotate: false
+  xy: 600, 1078
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1
+K-Kangaroo0009
+  rotate: false
+  xy: 1200, 1078
+  size: 600, 539
+  orig: 600, 539
+  offset: 0, 0
+  index: -1

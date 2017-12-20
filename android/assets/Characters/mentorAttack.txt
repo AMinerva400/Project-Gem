@@ -1,0 +1,82 @@
+mentorAttack.png
+size: 1800, 838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mentor_wand0001
+  rotate: false
+  xy: 0, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0002
+  rotate: false
+  xy: 300, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0003
+  rotate: false
+  xy: 600, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0004
+  rotate: false
+  xy: 900, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0005
+  rotate: false
+  xy: 1200, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0006
+  rotate: false
+  xy: 1500, 0
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0007
+  rotate: false
+  xy: 0, 419
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0008
+  rotate: false
+  xy: 300, 419
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0009
+  rotate: false
+  xy: 600, 419
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0010
+  rotate: false
+  xy: 900, 419
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1
+Mentor_wand0011
+  rotate: false
+  xy: 1200, 419
+  size: 300, 419
+  orig: 300, 419
+  offset: 0, 0
+  index: -1

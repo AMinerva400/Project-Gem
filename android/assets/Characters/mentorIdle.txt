@@ -1,0 +1,89 @@
+mentorIdle.png
+size: 1800, 546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mentor_Talk0001
+  rotate: false
+  xy: 0, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0002
+  rotate: false
+  xy: 300, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0003
+  rotate: false
+  xy: 600, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0004
+  rotate: false
+  xy: 900, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0005
+  rotate: false
+  xy: 1200, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0006
+  rotate: false
+  xy: 1500, 0
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0007
+  rotate: false
+  xy: 0, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0008
+  rotate: false
+  xy: 300, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0009
+  rotate: false
+  xy: 600, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0010
+  rotate: false
+  xy: 900, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0011
+  rotate: false
+  xy: 1200, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1
+Mentor_Talk0012
+  rotate: false
+  xy: 1500, 273
+  size: 300, 273
+  orig: 300, 273
+  offset: 0, 0
+  index: -1

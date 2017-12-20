@@ -1,0 +1,197 @@
+RingWand.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0018
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0012
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0013
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0001
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0002
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+
+RingWand2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0003
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0019
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0009
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0017
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+
+RingWand3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0004
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0023
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0015
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0022
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+
+RingWand4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0005
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0011
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0008
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0021
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+
+RingWand5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0016
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0014
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0006
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0024
+  rotate: false
+  xy: 371, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+
+RingWand6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ring_Animation0020
+  rotate: false
+  xy: 1, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0010
+  rotate: false
+  xy: 1, 1
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1
+Ring_Animation0007
+  rotate: false
+  xy: 371, 403
+  size: 368, 400
+  orig: 368, 400
+  offset: 0, 0
+  index: -1

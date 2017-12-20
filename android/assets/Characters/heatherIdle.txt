@@ -1,0 +1,61 @@
+heatherIdle.png
+size: 1200, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Heather_Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0002
+  rotate: false
+  xy: 150, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0003
+  rotate: false
+  xy: 300, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0004
+  rotate: false
+  xy: 450, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0005
+  rotate: false
+  xy: 600, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0006
+  rotate: false
+  xy: 750, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0007
+  rotate: false
+  xy: 900, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1
+Heather_Idle0008
+  rotate: false
+  xy: 1050, 0
+  size: 150, 360
+  orig: 150, 360
+  offset: 0, 0
+  index: -1

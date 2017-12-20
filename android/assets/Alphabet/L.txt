@@ -1,0 +1,47 @@
+L.png
+size: 1800, 1452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-Lion0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1
+L-Lion0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1
+L-Lion0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1
+L-Lion0004
+  rotate: false
+  xy: 0, 726
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1
+L-Lion0005
+  rotate: false
+  xy: 600, 726
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1
+L-Lion0006
+  rotate: false
+  xy: 1200, 726
+  size: 600, 726
+  orig: 600, 726
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+hubbardIdle.png
+size: 1720, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hubbard Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0002
+  rotate: false
+  xy: 215, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0003
+  rotate: false
+  xy: 430, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0004
+  rotate: false
+  xy: 645, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0005
+  rotate: false
+  xy: 860, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0006
+  rotate: false
+  xy: 1075, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0007
+  rotate: false
+  xy: 1290, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1
+Hubbard Idle0008
+  rotate: false
+  xy: 1505, 0
+  size: 215, 360
+  orig: 215, 360
+  offset: 0, 0
+  index: -1

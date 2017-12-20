@@ -1,0 +1,61 @@
+gemCollectorVictory.png
+size: 1032, 388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Excited0001
+  rotate: false
+  xy: 0, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0002
+  rotate: false
+  xy: 129, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0003
+  rotate: false
+  xy: 258, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0004
+  rotate: false
+  xy: 387, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0005
+  rotate: false
+  xy: 516, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0006
+  rotate: false
+  xy: 645, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0007
+  rotate: false
+  xy: 774, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1
+Girl_Excited0008
+  rotate: false
+  xy: 903, 0
+  size: 129, 388
+  orig: 129, 388
+  offset: 0, 0
+  index: -1

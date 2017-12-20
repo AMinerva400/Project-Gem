@@ -1,0 +1,89 @@
+Go.png
+size: 1800, 1948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Go0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0004
+  rotate: false
+  xy: 0, 487
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0005
+  rotate: false
+  xy: 600, 487
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0006
+  rotate: false
+  xy: 1200, 487
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0007
+  rotate: false
+  xy: 0, 974
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0008
+  rotate: false
+  xy: 600, 974
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0009
+  rotate: false
+  xy: 1200, 974
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0010
+  rotate: false
+  xy: 0, 1461
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0011
+  rotate: false
+  xy: 600, 1461
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1
+Go0012
+  rotate: false
+  xy: 1200, 1461
+  size: 600, 487
+  orig: 600, 487
+  offset: 0, 0
+  index: -1

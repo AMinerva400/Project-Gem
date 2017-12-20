@@ -1,0 +1,68 @@
+O.png
+size: 1800, 1884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+O-Ostritch0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0004
+  rotate: false
+  xy: 0, 628
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0005
+  rotate: false
+  xy: 600, 628
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0006
+  rotate: false
+  xy: 1200, 628
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0007
+  rotate: false
+  xy: 0, 1256
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0008
+  rotate: false
+  xy: 600, 1256
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1
+O-Ostritch0009
+  rotate: false
+  xy: 1200, 1256
+  size: 600, 628
+  orig: 600, 628
+  offset: 0, 0
+  index: -1

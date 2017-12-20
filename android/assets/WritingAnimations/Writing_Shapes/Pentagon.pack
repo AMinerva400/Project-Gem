@@ -1,0 +1,160 @@
+
+Pentagon.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pentagon3d
+  rotate: false
+  xy: 1, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon5c
+  rotate: false
+  xy: 1, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon1d
+  rotate: false
+  xy: 403, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon3c
+  rotate: false
+  xy: 1, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon1b
+  rotate: false
+  xy: 403, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon5d
+  rotate: false
+  xy: 403, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+
+Pentagon2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pentagon1a
+  rotate: false
+  xy: 1, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon4a
+  rotate: false
+  xy: 1, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon2b
+  rotate: false
+  xy: 403, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon4c
+  rotate: false
+  xy: 1, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon2d
+  rotate: false
+  xy: 403, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon3a
+  rotate: false
+  xy: 403, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+
+Pentagon3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pentagon2c
+  rotate: false
+  xy: 1, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon5b
+  rotate: false
+  xy: 1, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon1c
+  rotate: false
+  xy: 403, 605
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon5a
+  rotate: false
+  xy: 1, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon4b
+  rotate: false
+  xy: 403, 303
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon3b
+  rotate: false
+  xy: 403, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+
+Pentagon4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pentagon4d
+  rotate: false
+  xy: 1, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Pentagon2a
+  rotate: false
+  xy: 403, 1
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1

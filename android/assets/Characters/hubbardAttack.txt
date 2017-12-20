@@ -1,0 +1,54 @@
+hubbardAttack.png
+size: 1981, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hubbard Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0002
+  rotate: false
+  xy: 283, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0003
+  rotate: false
+  xy: 566, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0004
+  rotate: false
+  xy: 849, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0005
+  rotate: false
+  xy: 1132, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0006
+  rotate: false
+  xy: 1415, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+Hubbard Attack0007
+  rotate: false
+  xy: 1698, 0
+  size: 283, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+Y.png
+size: 1800, 1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y-Yak0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0004
+  rotate: false
+  xy: 0, 604
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0005
+  rotate: false
+  xy: 600, 604
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0006
+  rotate: false
+  xy: 1200, 604
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0007
+  rotate: false
+  xy: 0, 1208
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0008
+  rotate: false
+  xy: 600, 1208
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1
+Y-Yak0009
+  rotate: false
+  xy: 1200, 1208
+  size: 600, 604
+  orig: 600, 604
+  offset: 0, 0
+  index: -1

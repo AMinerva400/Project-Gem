@@ -1,0 +1,110 @@
+Gym.png
+size: 1800, 1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gym0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0004
+  rotate: false
+  xy: 0, 244
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0005
+  rotate: false
+  xy: 600, 244
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0006
+  rotate: false
+  xy: 1200, 244
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0007
+  rotate: false
+  xy: 0, 488
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0008
+  rotate: false
+  xy: 600, 488
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0009
+  rotate: false
+  xy: 1200, 488
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0010
+  rotate: false
+  xy: 0, 732
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0011
+  rotate: false
+  xy: 600, 732
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0012
+  rotate: false
+  xy: 1200, 732
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0013
+  rotate: false
+  xy: 0, 976
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0014
+  rotate: false
+  xy: 600, 976
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1
+Gym0015
+  rotate: false
+  xy: 1200, 976
+  size: 600, 244
+  orig: 600, 244
+  offset: 0, 0
+  index: -1

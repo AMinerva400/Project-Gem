@@ -1,0 +1,68 @@
+D.png
+size: 1800, 1419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D-Dog0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0004
+  rotate: false
+  xy: 0, 473
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0005
+  rotate: false
+  xy: 600, 473
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0006
+  rotate: false
+  xy: 1200, 473
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0007
+  rotate: false
+  xy: 0, 946
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0008
+  rotate: false
+  xy: 600, 946
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1
+D-Dog0009
+  rotate: false
+  xy: 1200, 946
+  size: 600, 473
+  orig: 600, 473
+  offset: 0, 0
+  index: -1

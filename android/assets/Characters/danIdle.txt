@@ -1,0 +1,61 @@
+danIdle.png
+size: 1704, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dan Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0002
+  rotate: false
+  xy: 213, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0003
+  rotate: false
+  xy: 426, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0004
+  rotate: false
+  xy: 639, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0005
+  rotate: false
+  xy: 852, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0006
+  rotate: false
+  xy: 1065, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0007
+  rotate: false
+  xy: 1278, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1
+Dan Idle0008
+  rotate: false
+  xy: 1491, 0
+  size: 213, 360
+  orig: 213, 360
+  offset: 0, 0
+  index: -1

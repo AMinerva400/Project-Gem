@@ -1,0 +1,47 @@
+J.png
+size: 1800, 1692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J-Jaguar0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1
+J-Jaguar0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1
+J-Jaguar0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1
+J-Jaguar0004
+  rotate: false
+  xy: 0, 846
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1
+J-Jaguar0005
+  rotate: false
+  xy: 600, 846
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1
+J-Jaguar0006
+  rotate: false
+  xy: 1200, 846
+  size: 600, 846
+  orig: 600, 846
+  offset: 0, 0
+  index: -1

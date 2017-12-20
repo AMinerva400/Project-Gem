@@ -1,0 +1,54 @@
+chetAttack.png
+size: 768, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chet Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0002
+  rotate: false
+  xy: 384, 0
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0003
+  rotate: false
+  xy: 0, 400
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0004
+  rotate: false
+  xy: 384, 400
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0005
+  rotate: false
+  xy: 0, 800
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0006
+  rotate: false
+  xy: 384, 800
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+Chet Attack0007
+  rotate: false
+  xy: 0, 1200
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1

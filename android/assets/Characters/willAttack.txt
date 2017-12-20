@@ -1,0 +1,54 @@
+willAttack.png
+size: 897, 1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Will Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0002
+  rotate: false
+  xy: 299, 0
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0003
+  rotate: false
+  xy: 598, 0
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0004
+  rotate: false
+  xy: 0, 360
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0005
+  rotate: false
+  xy: 299, 360
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0006
+  rotate: false
+  xy: 598, 360
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1
+Will Attack0007
+  rotate: false
+  xy: 0, 720
+  size: 299, 360
+  orig: 299, 360
+  offset: 0, 0
+  index: -1

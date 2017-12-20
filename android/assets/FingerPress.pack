@@ -1,0 +1,104 @@
+
+FingerPress.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pointer0003
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0002
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0001
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0009
+  rotate: false
+  xy: 403, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+
+FingerPress2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pointer0006
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0011
+  rotate: false
+  xy: 403, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0010
+  rotate: false
+  xy: 403, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0012
+  rotate: false
+  xy: 403, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+
+FingerPress3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pointer0007
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0008
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+Pointer0004
+  rotate: false
+  xy: 403, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1
+
+FingerPress4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pointer0005
+  rotate: false
+  xy: 1, 1
+  size: 400, 644
+  orig: 400, 644
+  offset: 0, 0
+  index: -1

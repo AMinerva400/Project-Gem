@@ -1,0 +1,68 @@
+C.png
+size: 1800, 1887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Cat0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0004
+  rotate: false
+  xy: 0, 629
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0005
+  rotate: false
+  xy: 600, 629
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0006
+  rotate: false
+  xy: 1200, 629
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0007
+  rotate: false
+  xy: 0, 1258
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0008
+  rotate: false
+  xy: 600, 1258
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1
+C_Cat0009
+  rotate: false
+  xy: 1200, 1258
+  size: 600, 629
+  orig: 600, 629
+  offset: 0, 0
+  index: -1

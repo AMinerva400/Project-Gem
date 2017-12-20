@@ -1,0 +1,89 @@
+U.png
+size: 1800, 2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+U-Umbrellabird0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0004
+  rotate: false
+  xy: 0, 506
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0005
+  rotate: false
+  xy: 600, 506
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0006
+  rotate: false
+  xy: 1200, 506
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0007
+  rotate: false
+  xy: 0, 1012
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0008
+  rotate: false
+  xy: 600, 1012
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0009
+  rotate: false
+  xy: 1200, 1012
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0010
+  rotate: false
+  xy: 0, 1518
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0011
+  rotate: false
+  xy: 600, 1518
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1
+U-Umbrellabird0012
+  rotate: false
+  xy: 1200, 1518
+  size: 600, 506
+  orig: 600, 506
+  offset: 0, 0
+  index: -1

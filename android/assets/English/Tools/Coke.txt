@@ -1,0 +1,110 @@
+Coke.png
+size: 1800, 835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coke0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0004
+  rotate: false
+  xy: 0, 167
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0005
+  rotate: false
+  xy: 600, 167
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0006
+  rotate: false
+  xy: 1200, 167
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0007
+  rotate: false
+  xy: 0, 334
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0008
+  rotate: false
+  xy: 600, 334
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0009
+  rotate: false
+  xy: 1200, 334
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0010
+  rotate: false
+  xy: 0, 501
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0011
+  rotate: false
+  xy: 600, 501
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0012
+  rotate: false
+  xy: 1200, 501
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0013
+  rotate: false
+  xy: 0, 668
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0014
+  rotate: false
+  xy: 600, 668
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+Coke0015
+  rotate: false
+  xy: 1200, 668
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1

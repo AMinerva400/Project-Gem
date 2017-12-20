@@ -1,0 +1,68 @@
+E.png
+size: 1800, 1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E-Elephant0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0004
+  rotate: false
+  xy: 0, 568
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0005
+  rotate: false
+  xy: 600, 568
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0006
+  rotate: false
+  xy: 1200, 568
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0007
+  rotate: false
+  xy: 0, 1136
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0008
+  rotate: false
+  xy: 600, 1136
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1
+E-Elephant0009
+  rotate: false
+  xy: 1200, 1136
+  size: 600, 568
+  orig: 600, 568
+  offset: 0, 0
+  index: -1

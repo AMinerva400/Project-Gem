@@ -1,0 +1,68 @@
+V.png
+size: 1800, 1611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V-Vulture0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0004
+  rotate: false
+  xy: 0, 537
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0005
+  rotate: false
+  xy: 600, 537
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0006
+  rotate: false
+  xy: 1200, 537
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0007
+  rotate: false
+  xy: 0, 1074
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0008
+  rotate: false
+  xy: 600, 1074
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1
+V-Vulture0009
+  rotate: false
+  xy: 1200, 1074
+  size: 600, 537
+  orig: 600, 537
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,96 @@
+F.png
+size: 1800, 1580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F-Fish0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0004
+  rotate: false
+  xy: 0, 316
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0005
+  rotate: false
+  xy: 600, 316
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0006
+  rotate: false
+  xy: 1200, 316
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0007
+  rotate: false
+  xy: 0, 632
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0008
+  rotate: false
+  xy: 600, 632
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0009
+  rotate: false
+  xy: 1200, 632
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0010
+  rotate: false
+  xy: 0, 948
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0011
+  rotate: false
+  xy: 600, 948
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0012
+  rotate: false
+  xy: 1200, 948
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1
+F-Fish0013
+  rotate: false
+  xy: 0, 1264
+  size: 600, 316
+  orig: 600, 316
+  offset: 0, 0
+  index: -1

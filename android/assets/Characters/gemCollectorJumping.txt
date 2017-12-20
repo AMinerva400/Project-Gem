@@ -1,0 +1,117 @@
+gemCollectorJumping.png
+size: 1992, 473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Jump0001
+  rotate: false
+  xy: 0, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0002
+  rotate: false
+  xy: 156, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0003
+  rotate: false
+  xy: 312, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0004
+  rotate: false
+  xy: 468, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0005
+  rotate: false
+  xy: 624, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0006
+  rotate: false
+  xy: 780, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0007
+  rotate: false
+  xy: 936, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0008
+  rotate: false
+  xy: 1092, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0009
+  rotate: false
+  xy: 1248, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1
+Girl_Jump0010
+  rotate: false
+  xy: 1404, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0011
+  rotate: false
+  xy: 1476, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0012
+  rotate: false
+  xy: 1548, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0013
+  rotate: false
+  xy: 1620, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0014
+  rotate: false
+  xy: 1692, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0015
+  rotate: false
+  xy: 1764, 0
+  size: 72, 342
+  orig: 72, 342
+  offset: 0, 0
+  index: -1
+Girl_Jump0016
+  rotate: false
+  xy: 1836, 0
+  size: 156, 473
+  orig: 156, 473
+  offset: 0, 0
+  index: -1

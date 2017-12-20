@@ -1,0 +1,61 @@
+willIdle.png
+size: 1592, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Will Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0002
+  rotate: false
+  xy: 199, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0003
+  rotate: false
+  xy: 398, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0004
+  rotate: false
+  xy: 597, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0005
+  rotate: false
+  xy: 796, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0006
+  rotate: false
+  xy: 995, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0007
+  rotate: false
+  xy: 1194, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+Will Idle0008
+  rotate: false
+  xy: 1393, 0
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1

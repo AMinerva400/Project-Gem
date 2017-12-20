@@ -1,0 +1,117 @@
+gemCollectorAttack.png
+size: 1800, 1491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_animation0001
+  rotate: false
+  xy: 0, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0002
+  rotate: false
+  xy: 300, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0003
+  rotate: false
+  xy: 600, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0004
+  rotate: false
+  xy: 900, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0005
+  rotate: false
+  xy: 1200, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0006
+  rotate: false
+  xy: 1500, 0
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0007
+  rotate: false
+  xy: 0, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0008
+  rotate: false
+  xy: 300, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0009
+  rotate: false
+  xy: 600, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0010
+  rotate: false
+  xy: 900, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0011
+  rotate: false
+  xy: 1200, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0012
+  rotate: false
+  xy: 1500, 497
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0013
+  rotate: false
+  xy: 0, 994
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0014
+  rotate: false
+  xy: 300, 994
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0015
+  rotate: false
+  xy: 600, 994
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1
+Girl_animation0016
+  rotate: false
+  xy: 900, 994
+  size: 300, 497
+  orig: 300, 497
+  offset: 0, 0
+  index: -1

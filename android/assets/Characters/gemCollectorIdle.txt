@@ -1,0 +1,61 @@
+gemCollectorIdle.png
+size: 252, 1312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0002
+  rotate: false
+  xy: 126, 0
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0003
+  rotate: false
+  xy: 0, 328
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0004
+  rotate: false
+  xy: 126, 328
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0005
+  rotate: false
+  xy: 0, 656
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0006
+  rotate: false
+  xy: 126, 656
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0007
+  rotate: false
+  xy: 0, 984
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1
+Girl_Idle0008
+  rotate: false
+  xy: 126, 984
+  size: 126, 328
+  orig: 126, 328
+  offset: 0, 0
+  index: -1

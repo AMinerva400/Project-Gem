@@ -1,0 +1,89 @@
+mentorJumping.png
+size: 1800, 516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mentor_Hover0001
+  rotate: false
+  xy: 0, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0002
+  rotate: false
+  xy: 300, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0003
+  rotate: false
+  xy: 600, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0004
+  rotate: false
+  xy: 900, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0005
+  rotate: false
+  xy: 1200, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0006
+  rotate: false
+  xy: 1500, 0
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0007
+  rotate: false
+  xy: 0, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0008
+  rotate: false
+  xy: 300, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0009
+  rotate: false
+  xy: 600, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0010
+  rotate: false
+  xy: 900, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0011
+  rotate: false
+  xy: 1200, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+Mentor_Hover0012
+  rotate: false
+  xy: 1500, 258
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1

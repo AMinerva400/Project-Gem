@@ -1,0 +1,61 @@
+dwightIdle.png
+size: 1176, 367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dwight Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0002
+  rotate: false
+  xy: 147, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0003
+  rotate: false
+  xy: 294, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0004
+  rotate: false
+  xy: 441, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0005
+  rotate: false
+  xy: 588, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0006
+  rotate: false
+  xy: 735, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0007
+  rotate: false
+  xy: 882, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+Dwight Idle0008
+  rotate: false
+  xy: 1029, 0
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+Gas.png
+size: 1800, 1230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gas0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0004
+  rotate: false
+  xy: 0, 246
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0005
+  rotate: false
+  xy: 600, 246
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0006
+  rotate: false
+  xy: 1200, 246
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0007
+  rotate: false
+  xy: 0, 492
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0008
+  rotate: false
+  xy: 600, 492
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0009
+  rotate: false
+  xy: 1200, 492
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0010
+  rotate: false
+  xy: 0, 738
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0011
+  rotate: false
+  xy: 600, 738
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0012
+  rotate: false
+  xy: 1200, 738
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0013
+  rotate: false
+  xy: 0, 984
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0014
+  rotate: false
+  xy: 600, 984
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Gas0015
+  rotate: false
+  xy: 1200, 984
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1

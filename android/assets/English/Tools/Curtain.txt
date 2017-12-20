@@ -1,0 +1,110 @@
+Curtain.png
+size: 1800, 645
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Curtain0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0004
+  rotate: false
+  xy: 0, 129
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0005
+  rotate: false
+  xy: 600, 129
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0006
+  rotate: false
+  xy: 1200, 129
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0007
+  rotate: false
+  xy: 0, 258
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0008
+  rotate: false
+  xy: 600, 258
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0009
+  rotate: false
+  xy: 1200, 258
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0010
+  rotate: false
+  xy: 0, 387
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0011
+  rotate: false
+  xy: 600, 387
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0012
+  rotate: false
+  xy: 1200, 387
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0013
+  rotate: false
+  xy: 0, 516
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0014
+  rotate: false
+  xy: 600, 516
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+Curtain0015
+  rotate: false
+  xy: 1200, 516
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1

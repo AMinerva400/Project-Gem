@@ -1,0 +1,75 @@
+mentorHurt.png
+size: 1500, 686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mentor_Hurt0001
+  rotate: false
+  xy: 0, 0
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0002
+  rotate: false
+  xy: 300, 0
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0003
+  rotate: false
+  xy: 600, 0
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0004
+  rotate: false
+  xy: 900, 0
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0005
+  rotate: false
+  xy: 1200, 0
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0006
+  rotate: false
+  xy: 0, 343
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0007
+  rotate: false
+  xy: 300, 343
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0008
+  rotate: false
+  xy: 600, 343
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0009
+  rotate: false
+  xy: 900, 343
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1
+Mentor_Hurt0010
+  rotate: false
+  xy: 1200, 343
+  size: 300, 343
+  orig: 300, 343
+  offset: 0, 0
+  index: -1

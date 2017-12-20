@@ -1,0 +1,61 @@
+gemCollectorHurt.png
+size: 1480, 328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_hurt0001
+  rotate: false
+  xy: 0, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0002
+  rotate: false
+  xy: 185, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0003
+  rotate: false
+  xy: 370, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0004
+  rotate: false
+  xy: 555, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0005
+  rotate: false
+  xy: 740, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0006
+  rotate: false
+  xy: 925, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0007
+  rotate: false
+  xy: 1110, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1
+Girl_hurt0008
+  rotate: false
+  xy: 1295, 0
+  size: 185, 328
+  orig: 185, 328
+  offset: 0, 0
+  index: -1

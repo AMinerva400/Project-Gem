@@ -1,0 +1,47 @@
+I.png
+size: 1800, 1908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+I-guana0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1
+I-guana0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1
+I-guana0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1
+I-guana0004
+  rotate: false
+  xy: 0, 954
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1
+I-guana0005
+  rotate: false
+  xy: 600, 954
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1
+I-guana0006
+  rotate: false
+  xy: 1200, 954
+  size: 600, 954
+  orig: 600, 954
+  offset: 0, 0
+  index: -1

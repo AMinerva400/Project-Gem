@@ -1,0 +1,54 @@
+danAttack.png
+size: 1904, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dan Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0002
+  rotate: false
+  xy: 272, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0003
+  rotate: false
+  xy: 544, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0004
+  rotate: false
+  xy: 816, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0005
+  rotate: false
+  xy: 1088, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0006
+  rotate: false
+  xy: 1360, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1
+Dan Attack0007
+  rotate: false
+  xy: 1632, 0
+  size: 272, 360
+  orig: 272, 360
+  offset: 0, 0
+  index: -1

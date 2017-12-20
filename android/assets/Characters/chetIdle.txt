@@ -1,0 +1,61 @@
+chetIdle.png
+size: 1480, 359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chet Idle0001
+  rotate: false
+  xy: 0, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0002
+  rotate: false
+  xy: 185, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0003
+  rotate: false
+  xy: 370, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0004
+  rotate: false
+  xy: 555, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0005
+  rotate: false
+  xy: 740, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0006
+  rotate: false
+  xy: 925, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0007
+  rotate: false
+  xy: 1110, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1
+Chet Idle0008
+  rotate: false
+  xy: 1295, 0
+  size: 185, 359
+  orig: 185, 359
+  offset: 0, 0
+  index: -1

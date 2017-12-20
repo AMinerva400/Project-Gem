@@ -1,0 +1,68 @@
+B.png
+size: 1800, 1839
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Bear0001
+  rotate: false
+  xy: 0, 0
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0002
+  rotate: false
+  xy: 600, 0
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0003
+  rotate: false
+  xy: 1200, 0
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0004
+  rotate: false
+  xy: 0, 613
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0005
+  rotate: false
+  xy: 600, 613
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0006
+  rotate: false
+  xy: 1200, 613
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0007
+  rotate: false
+  xy: 0, 1226
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0008
+  rotate: false
+  xy: 600, 1226
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1
+B_Bear0009
+  rotate: false
+  xy: 1200, 1226
+  size: 600, 613
+  orig: 600, 613
+  offset: 0, 0
+  index: -1

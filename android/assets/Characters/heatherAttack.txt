@@ -1,0 +1,54 @@
+heatherAttack.png
+size: 1757, 360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Heather Attack0001
+  rotate: false
+  xy: 0, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0002
+  rotate: false
+  xy: 251, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0003
+  rotate: false
+  xy: 502, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0004
+  rotate: false
+  xy: 753, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0005
+  rotate: false
+  xy: 1004, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0006
+  rotate: false
+  xy: 1255, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
+Heather Attack0007
+  rotate: false
+  xy: 1506, 0
+  size: 251, 360
+  orig: 251, 360
+  offset: 0, 0
+  index: -1
